@@ -1,0 +1,40 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/home/Documents/Unreal Projects/ZombieGame2/Content/FirstPersonArms/Animations/FirstPerson_AnimBP.uasset",
+				"C:/Users/home/Documents/Unreal Projects/ZombieGame2/Content/FirstPerson/Blueprints/BP_Weapon_Component.uasset",
+				"C:/Users/home/Documents/Unreal Projects/ZombieGame2/Content/FirstPerson/Blueprints/BP_Pickup_Rifle.uasset",
+				"C:/Users/home/Documents/Unreal Projects/ZombieGame2/Content/FirstPerson/Blueprints/BP_FirstPersonGameMode.uasset",
+				"C:/Users/home/Documents/Unreal Projects/ZombieGame2/Content/_Main/Character/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/home/Documents/Unreal Projects/ZombieGame2/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/home/Documents/Unreal Projects/ZombieGame2/Content/FPWeapon/Mesh/SK_FPGun_Skeleton.uasset",
+				"C:/Users/home/Documents/Unreal Projects/ZombieGame2/Content/FPWeapon/Mesh/SK_FPGun_PhysicsAsset.uasset",
+				"C:/Users/home/Documents/Unreal Projects/ZombieGame2/Content/FPWeapon/Mesh/SK_FPGun_Physics.uasset",
+				"C:/Users/home/Documents/Unreal Projects/ZombieGame2/Content/_Main/Character/M_Man_Body.uasset",
+				"C:/Users/home/Documents/Unreal Projects/ZombieGame2/Content/_Main/Character/Arms.uasset",
+				"C:/Users/home/Documents/Unreal Projects/ZombieGame2/Content/_Main/Character/Animations/IdelWalkBS.uasset",
+				"C:/Users/home/Documents/Unreal Projects/ZombieGame2/Content/_Main/Character/Animations/FPSAnimBP.uasset",
+				"C:/Users/home/Documents/Unreal Projects/ZombieGame2/Content/_Main/Character/Animations/IdleWalkBS.uasset",
+				"C:/Users/home/Documents/Unreal Projects/ZombieGame2/Content/_Main/Character/Arms_Skeleton.uasset",
+				"C:/Users/home/Documents/Unreal Projects/ZombieGame2/Content/_Main/Character/Animations/AimFire.uasset",
+				"C:/Users/home/Documents/Unreal Projects/ZombieGame2/Content/_Main/Character/Animations/AimPose.uasset",
+				"C:/Users/home/Documents/Unreal Projects/ZombieGame2/Content/_Main/Character/Animations/AimtoIdle.uasset",
+				"C:/Users/home/Documents/Unreal Projects/ZombieGame2/Content/_Main/Character/Arms_PhysicsAsset.uasset",
+				"C:/Users/home/Documents/Unreal Projects/ZombieGame2/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/8C/EAHCBN229IT8APJO305AH5.uasset",
+				"C:/Users/home/Documents/Unreal Projects/ZombieGame2/Content/_Main/Character/Animations/Idle.uasset",
+				"C:/Users/home/Documents/Unreal Projects/ZombieGame2/Content/_Main/Character/Animations/IdleFIre.uasset",
+				"C:/Users/home/Documents/Unreal Projects/ZombieGame2/Content/_Main/Character/Animations/IdleToAim.uasset",
+				"C:/Users/home/Documents/Unreal Projects/ZombieGame2/Content/_Main/Character/Animations/Reload.uasset",
+				"C:/Users/home/Documents/Unreal Projects/ZombieGame2/Content/_Main/Character/Animations/run.uasset",
+				"C:/Users/home/Documents/Unreal Projects/ZombieGame2/Content/_Main/Character/T_Man_Body_Albedo.uasset",
+				"C:/Users/home/Documents/Unreal Projects/ZombieGame2/Content/_Main/Character/T_Man_Body_Ao.uasset",
+				"C:/Users/home/Documents/Unreal Projects/ZombieGame2/Content/_Main/Character/T_Man_Body_Metallic.uasset",
+				"C:/Users/home/Documents/Unreal Projects/ZombieGame2/Content/_Main/Character/T_Man_Body_Normals.uasset"
+			]
+		}
+	]
+}
